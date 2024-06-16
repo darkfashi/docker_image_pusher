@@ -3,3 +3,4 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 koishijs/koishi
 synctvorg/synctv
+xhofe/alist
